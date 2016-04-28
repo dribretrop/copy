@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">iServiceCopy</string>
+    <string name="forgot_password"><u>Forgot password</u></string>
+    <string name="what_is_trueid"><u>What is TrueID ?</u></string>
 </resources>
